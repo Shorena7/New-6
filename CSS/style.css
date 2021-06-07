@@ -1,0 +1,17 @@
+.container-block {
+	width:1160px;
+	mergin:0 auto;
+	background-color:red;
+}
+.left-block {
+	
+	display:inline-block;
+	width:760px;
+	vertical-align:top;
+}
+.right-block {
+    
+    display:inline-block;	
+    width: 360px;
+    vertical-align: top
+}
